@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ErKunalSaraswat
+- 👋 Hi, I’m @ErKunalSaraswat, a rare combination of Embeeded,Railways and PD Engineer 
 - 👀 I’m interested in coding, Learning and exploring
-- 🌱 I’m currently learning Physical Design (VLSI)
+- 🌱 I’m currently learning Physical Design (VLSI) 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me @nanochip.kunal@gmail.com
 <!---
